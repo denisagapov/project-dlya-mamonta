@@ -1,0 +1,10 @@
+C:\Users\c_class\source\repos\PR4\PR4\bin\Debug\PR4.exe.config
+C:\Users\c_class\source\repos\PR4\PR4\bin\Debug\PR4.exe
+C:\Users\c_class\source\repos\PR4\PR4\bin\Debug\PR4.pdb
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.csprojAssemblyReference.cache
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.Form1.resources
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.Properties.Resources.resources
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.csproj.GenerateResource.cache
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.csproj.CoreCompileInputs.cache
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.exe
+C:\Users\c_class\source\repos\PR4\PR4\obj\Debug\PR4.pdb
